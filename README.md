@@ -1,7 +1,7 @@
 # CNN-SR
 MRS Spectral Registration Using Deep Learning
 
-This repository contains the python code of our DEEPSPEC model used in the following research project: "Magnetic Resonance Spectroscopy Spectral Registration Using Deep Learning".
+This repository contains the google drive folder (https://drive.google.com/drive/folders/1HgTHI4_QfgLR0WvHaPmcL1OyjwvZm3_t?usp=sharing) of the python code of our DEEPSPEC model used in the following research project: "Magnetic Resonance Spectroscopy Spectral Registration Using Deep Learning".
 
 The simulation dataset used for training, validation, and testing; The in vivo data used for testing can be found here: https://www.dropbox.com/sh/7n9pdo1vyp683fz/AAByLeFO6uSQuclCCBTWrYWVa?dl=0
 
